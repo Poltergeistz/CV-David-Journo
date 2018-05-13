@@ -30,10 +30,10 @@ h1
 
 }
 
-h4{
+h2{
 }
 
-h6{
+h4{
 
 }
 
@@ -43,12 +43,15 @@ p{
 
 
 hr {
+    
 
 }
 
 /* Experience */
 /* Citation */
 /* Formation */
+.box{
+}
 /* Anecdote */
 /* Compétences */
 /* Centres d'interet */
