@@ -1,5 +1,5 @@
 # [Start Bootstrap - Resume]
-https://poltergeistz.github.io/CV-Framework-CSS/
+https://poltergeistz.github.io/CV-David-Journo/
 
 
 ## Colors
